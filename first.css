@@ -1,0 +1,22 @@
+
+
+ /*---------------------------global---------------------------*/
+ a{
+  text-decoration: none;
+ }
+ img {
+  width: 100px;
+  display: block;
+ }
+
+
+
+/*--------------------navbar-----------------*/
+.nav-btn svg {
+  fill:firebrick;
+  position: fixed;
+  top:5%;
+  left:5%;
+  cursor: pointer;
+}
+
